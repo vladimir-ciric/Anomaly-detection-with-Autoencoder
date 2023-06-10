@@ -18,4 +18,4 @@ After training the autoencoder, the following results were obtained for images o
 
 <img width="821" alt="blood_res" src="https://user-images.githubusercontent.com/95381758/222410705-b8ba7e1a-ffda-498b-b3dd-61f7213df948.png">
 
-As a result 0 images out of 120 were droped from retina dataset (0.00%) and 3270 images out of 3421 were droped from blood dataset (0.96%).
+As a result 0 images out of 120 were droped from retina dataset (0%) and 3270 images out of 3421 were droped from blood dataset (96%).
